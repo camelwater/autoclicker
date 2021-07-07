@@ -35,21 +35,5 @@ public class autoclick
 	{
 		delay = ms;
 	}
-	public void click(int b)
-	{
-		try
-		{
-			//delay = Math.random()*11+(delay-48);
-//			delay = 5;
-//			r.mousePress(b);
-//			r.delay((int)Math.random()*4);
-//			r.mouseRelease(b);
-//			r.delay((int)delay);
-		}
-		catch(Exception e)
-		{
-			e.printStackTrace();
-		}
-	}
 }
 
