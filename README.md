@@ -1,2 +1,2 @@
 # autoclicker
-java autoclicker
+java autoclicker + automover
